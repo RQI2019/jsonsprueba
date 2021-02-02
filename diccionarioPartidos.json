@@ -1,0 +1,184 @@
+{
+    "1":
+    {
+        "nombrePartido": "PAN",
+        "nombreCortoPartido": "PAN",
+        "imgPartido": "PAN.png",
+        "colorPartido": "#00579c"
+    },
+    "2":
+    {
+        "nombrePartido": "PRI",
+        "nombreCortoPartido": "PRI",
+        "imgPartido": "PRI.png",
+        "colorPartido": "#15a152"
+    },
+    "3":
+    {
+        "nombrePartido": "PRD",
+        "nombreCortoPartido": "PRD",
+        "imgPartido": "PRD.png",
+        "colorPartido": "#ffde00"
+    },
+    "4":
+    {
+        "nombrePartido": "PVEM",
+        "nombreCortoPartido": "PVEM",
+        "imgPartido": "PVEM.png",
+        "colorPartido": "#87c344"
+    },
+    "5":
+    {
+        "nombrePartido": "PT",
+        "nombreCortoPartido": "PT",
+        "imgPartido": "PT.png",
+        "colorPartido": "#ee3d44"
+    },
+    "6":
+    {
+        "nombrePartido": "MC",
+        "nombreCortoPartido": "MC",
+        "imgPartido": "MC.png",
+        "colorPartido": "#fd8204"
+    },
+    "7":
+    {
+        "nombrePartido": "PANAL",
+        "nombreCortoPartido": "PANAL",
+        "imgPartido": "PANAL.png",
+        "colorPartido": "#14B4B6"
+    },
+    "8":
+    {
+        "nombrePartido": "MORENA",
+        "nombreCortoPartido": "MORENA",
+        "imgPartido": "MORENA.png",
+        "colorPartido": "#a53421"
+    },
+    "9":
+    {
+        "nombrePartido": "PES",
+        "nombreCortoPartido": "PES",
+        "imgPartido": "PES.png",
+        "colorPartido": "#662680"
+    },
+    "10":
+    {
+        "nombrePartido": "RSP",
+        "nombreCortoPartido": "RSP",
+        "imgPartido": "RSP.png",
+        "colorPartido": "#404143"
+    },
+    "11":
+    {
+        "nombrePartido": "FS",
+        "nombreCortoPartido": "FS",
+        "imgPartido": "FS.png",
+        "colorPartido": "#e30613"
+    },
+    "20":
+    {
+        "nombrePartido": "PAN-PRD-MC",
+        "nombreCortoPartido": "PAN-PRD-MC",
+        "imgPartido": "PAN-PRD-MC.png",
+        "colorPartido": "#669FF1"
+    },
+    "21":
+    {
+        "nombrePartido": "PAN-PRD",
+        "nombreCortoPartido": "PAN-PRD",
+        "imgPartido": "PAN-PRD.png",
+        "colorPartido": "#669FF1"
+    },
+    "22":
+    {
+        "nombrePartido": "PAN-MC",
+        "nombreCortoPartido": "PAN-MC",
+        "imgPartido": "PAN-MC.png",
+        "colorPartido": "#669FF1"
+    },
+    "23":
+    {
+        "nombrePartido": "PRD-MC",
+        "nombreCortoPartido": "PRD-MC",
+        "imgPartido": "PRD-MC.png",
+        "colorPartido": "#669FF1"
+    },
+    "30":
+    {
+        "nombrePartido": "PT-MORENA-PES",
+        "nombreCortoPartido": "PT-MORENA-PES",
+        "imgPartido": "PT-MORENA-PES.png",
+        "colorPartido": "#F28F8F"
+    },
+    "31":
+    {
+        "nombrePartido": "PT-MORENA",
+        "nombreCortoPartido": "PT-MORENA",
+        "imgPartido": "PT-MORENA.png",
+        "colorPartido": "#F28F8F"
+    },
+    "32":
+    {
+        "nombrePartido": "PT-PES",
+        "nombreCortoPartido": "PT-PES",
+        "imgPartido": "PT-PES.png",
+        "colorPartido": "#F28F8F"
+    },
+    "33":
+    {
+        "nombrePartido": "MORENA-PES",
+        "nombreCortoPartido": "MORENA-PES",
+        "imgPartido": "MORENA-PES.png",
+        "colorPartido": "#F28F8F"
+    },
+    "40":
+    {
+        "nombrePartido": "PRI-PVEM-NA",
+        "nombreCortoPartido": "PRI-PVEM-NA",
+        "imgPartido": "PRI-PVEM-NA.png",
+        "colorPartido": "#82E0A8"
+    },
+    "41":
+    {
+        "nombrePartido": "PRI-PVEM",
+        "nombreCortoPartido": "PRI-PVEM",
+        "imgPartido": "PRI-PVEM.png",
+        "colorPartido": "#82E0A8"
+    },
+    "42":
+    {
+        "nombrePartido": "PRI-NA",
+        "nombreCortoPartido": "PRI-NA",
+        "imgPartido": "PRI-NA.png",
+        "colorPartido": "#82E0A8"
+    },
+    "43":
+    {
+        "nombrePartido": "PVEM-NA",
+        "nombreCortoPartido": "PVEM-NA",
+        "imgPartido": "PVEM-NA.png",
+        "colorPartido": "#82E0A8"
+    },
+    "51":
+    {
+        "nombrePartido": "CI_01",
+        "nombreCortoPartido": "CI_01",
+        "imgPartido": "CI_01.png",
+        "colorPartido": "#8AA89D"
+    },
+    "52":
+    {
+        "nombrePartido": "CI_02",
+        "nombreCortoPartido": "CI_02",
+        "imgPartido": "CI_02.png",
+        "colorPartido": "#CA9E67"
+    },
+    "61":
+    {
+        "nombrePartido": "CNR",
+        "nombreCortoPartido": "CNR",
+        "imgPartido": "CNR.png",
+        "colorPartido": "#D8BC8F"
+    }
+}
