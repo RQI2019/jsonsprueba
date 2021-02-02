@@ -1,0 +1,258 @@
+[
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Aguascalientes",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "aguascalientes",
+        "idCircuns": 1,
+        "idEntidad": 0
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Baja California",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "baja-california",
+        "idCircuns": 0,
+        "idEntidad": 0
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Baja California Sur",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "baja-california-sur",
+        "idCircuns": 0,
+        "idEntidad": 1
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Campeche",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "campeche",
+        "idCircuns": 2,
+        "idEntidad": 0
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Coahuila",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "coahuila",
+        "idCircuns": 1,
+        "idEntidad": 1
+    },
+    {
+        "circunscripcion": "circunscripcion5",
+        "migas": "Colima",
+        "migaCircuns": "Circunscripción 5",
+        "ruta": "colima",
+        "idCircuns": 4,
+        "idEntidad": 0
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Chiapas",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "chiapas",
+        "idCircuns": 2,
+        "idEntidad": 1
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Chihuahua",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "chihuahua",
+        "idCircuns": 0,
+        "idEntidad": 2
+    },
+    {
+        "circunscripcion": "circunscripcion4",
+        "migas": "Ciudad de México",
+        "migaCircuns": "Circunscripción 4",
+        "ruta": "ciudad-de-mexico",
+        "idCircuns": 3,
+        "idEntidad": 0
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Durango",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "durango",
+        "idCircuns": 0,
+        "idEntidad": 3
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Guanajuato",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "guanajuato",
+        "idCircuns": 1,
+        "idEntidad": 2
+    },
+    {
+        "circunscripcion": "circunscripcion4",
+        "migas": "Guerrero",
+        "migaCircuns": "Circunscripción 4",
+        "ruta": "guerrero",
+        "idCircuns": 3,
+        "idEntidad": 1
+    },
+    {
+        "circunscripcion": "circunscripcion5",
+        "migas": "Hidalgo",
+        "migaCircuns": "Circunscripción 5",
+        "ruta": "hidalgo",
+        "idCircuns": 4,
+        "idEntidad": 1
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Jalisco",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "jalisco",
+        "idCircuns": 0,
+        "idEntidad": 4
+    },
+    {
+        "circunscripcion": "circunscripcion5",
+        "migas": "México",
+        "migaCircuns": "Circunscripción 5",
+        "ruta": "mexico",
+        "idCircuns": 4,
+        "idEntidad": 2
+    },
+    {
+        "circunscripcion": "circunscripcion5",
+        "migas": "Michoacán",
+        "migaCircuns": "Circunscripción 5",
+        "ruta": "michoacan",
+        "idCircuns": 4,
+        "idEntidad": 3
+    },
+    {
+        "circunscripcion": "circunscripcion4",
+        "migas": "Morelos",
+        "migaCircuns": "Circunscripción 4",
+        "ruta": "morelos",
+        "idCircuns": 3,
+        "idEntidad": 2
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Nayarit",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "nayarit",
+        "idCircuns": 0,
+        "idEntidad": 5
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Nuevo León",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "nuevo-leon",
+        "idCircuns": 1,
+        "idEntidad": 3
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Oaxaca",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "oaxaca",
+        "idCircuns": 2,
+        "idEntidad": 2
+    },
+    {
+        "circunscripcion": "circunscripcion4",
+        "migas": "Puebla",
+        "migaCircuns": "Circunscripción 4",
+        "ruta": "puebla",
+        "idCircuns": 3,
+        "idEntidad": 3
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Querétaro",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "queretaro",
+        "idCircuns": 1,
+        "idEntidad": 4
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Quintana Roo",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "quintana-roo",
+        "idCircuns": 2,
+        "idEntidad": 3
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "San Luis Potosí",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "san-luis-potosi",
+        "idCircuns": 1,
+        "idEntidad": 5
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Sinaloa",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "sinaloa",
+        "idCircuns": 0,
+        "idEntidad": 6
+    },
+    {
+        "circunscripcion": "circunscripcion1",
+        "migas": "Sonora",
+        "migaCircuns": "Circunscripción 1",
+        "ruta": "sonora",
+        "idCircuns": 0,
+        "idEntidad": 7
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Tabasco",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "tabasco",
+        "idCircuns": 2,
+        "idEntidad": 4
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Tamaulipas",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "tamaulipas",
+        "idCircuns": 1,
+        "idEntidad": 6
+    },
+    {
+        "circunscripcion": "circunscripcion4",
+        "migas": "Tlaxcala",
+        "migaCircuns": "Circunscripción 4",
+        "ruta": "tlaxcala",
+        "idCircuns": 3,
+        "idEntidad": 4
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Veracruz",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "veracruz",
+        "idCircuns": 2,
+        "idEntidad": 5
+    },
+    {
+        "circunscripcion": "circunscripcion3",
+        "migas": "Yucatán",
+        "migaCircuns": "Circunscripción 3",
+        "ruta": "yucatan",
+        "idCircuns": 2,
+        "idEntidad": 6
+    },
+    {
+        "circunscripcion": "circunscripcion2",
+        "migas": "Zacatecas",
+        "migaCircuns": "Circunscripción 2",
+        "ruta": "zacatecas",
+        "idCircuns": 1,
+        "idEntidad": 7
+    }
+]
