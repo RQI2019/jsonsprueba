@@ -1,0 +1,1129 @@
+{
+    "distritos": {
+        "distrito3": {
+            "distrito": "3",
+            "resumenVotacion": {
+                "acumulados": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "nulos": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "noRegistradas": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "totalVotos": {
+                    "total": "0"
+                }
+            },
+            "votosCandidatura": {
+                "votos": [{
+                        "candidato": "",
+                        "partidos": [
+                            "1",
+                            "3",
+                            "6"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 20,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "SANDRA CORONA PADILLA",
+                        "partidos": [
+                            "2",
+                            "4",
+                            "7"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 30,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "LORENA CUELLAR CISNEROS",
+                        "partidos": [
+                            "5",
+                            "8",
+                            "9"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 40,
+                        "ganador": false
+                    }
+                ],
+                "distribucion": [{
+                        "candidato": "MARIA GUADALUPE SANCHEZ SANTIAGO",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 20,
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "partidos": [
+                                    "1"
+                                ],
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "partidos": [
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "partidos": [
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "partidos": [
+                                    "1",
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "partidos": [
+                                    "1",
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "partidos": [
+                                    "1",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "partidos": [
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "SANDRA CORONA PADILLA",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 30,
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "partidos": [
+                                    "2"
+                                ],
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "partidos": [
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "partidos": [
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "partidos": [
+                                    "2",
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "partidos": [
+                                    "2",
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "partidos": [
+                                    "2",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "partidos": [
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "LORENA CUELLAR CISNEROS",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 40,
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "partidos": [
+                                    "5"
+                                ],
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "partidos": [
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "partidos": [
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "partidos": [
+                                    "5",
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "partidos": [
+                                    "5",
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "partidos": [
+                                    "5",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "partidos": [
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "ganador": false
+                    }
+                ]
+            }
+        },
+        "distrito2": {
+            "distrito": "2",
+            "resumenVotacion": {
+                "acumulados": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "nulos": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "noRegistradas": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "totalVotos": {
+                    "total": "0"
+                }
+            },
+            "votosCandidatura": {
+                "votos": [{
+                        "candidato": "",
+                        "partidos": [
+                            "1",
+                            "3",
+                            "6"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 20,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "BLANCA AGUILA LIMA",
+                        "partidos": [
+                            "2",
+                            "4",
+                            "7"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 30,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "RUBEN TERAN AGUILA",
+                        "partidos": [
+                            "5",
+                            "8",
+                            "9"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 40,
+                        "ganador": false
+                    }
+                ],
+                "distribucion": [{
+                        "candidato": "LAURA ALEJANDRA RAMIREZ ORTIZ",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 20,
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "partidos": [
+                                    "1"
+                                ],
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "partidos": [
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "partidos": [
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "partidos": [
+                                    "1",
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "partidos": [
+                                    "1",
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "partidos": [
+                                    "1",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "partidos": [
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "BLANCA AGUILA LIMA",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 30,
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "partidos": [
+                                    "2"
+                                ],
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "partidos": [
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "partidos": [
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "partidos": [
+                                    "2",
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "partidos": [
+                                    "2",
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "partidos": [
+                                    "2",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "partidos": [
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "RUBEN TERAN AGUILA",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 40,
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "partidos": [
+                                    "5"
+                                ],
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "partidos": [
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "partidos": [
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "partidos": [
+                                    "5",
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "partidos": [
+                                    "5",
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "partidos": [
+                                    "5",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "partidos": [
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "ganador": false
+                    }
+                ]
+            }
+        },
+        "distrito1": {
+            "distrito": "1",
+            "resumenVotacion": {
+                "acumulados": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "nulos": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "noRegistradas": {
+                    "total": "0",
+                    "porcentaje": "0.0000"
+                },
+                "totalVotos": {
+                    "total": "0"
+                }
+            },
+            "votosCandidatura": {
+                "votos": [{
+                        "candidato": "",
+                        "partidos": [
+                            "1",
+                            "3",
+                            "6"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 20,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "MARIANO GONZALEZ AGUIRRE",
+                        "partidos": [
+                            "2",
+                            "4",
+                            "7"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 30,
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "JOSE DE LA LUZ SOSA SALINAS",
+                        "partidos": [
+                            "5",
+                            "8",
+                            "9"
+                        ],
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "porcentaje": "0.0000",
+                        "votos": "0",
+                        "orden": 40,
+                        "ganador": false
+                    }
+                ],
+                "distribucion": [{
+                        "candidato": "HUMBERTO AGUSTIN MACIAS ROMERO",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 20,
+                        "partidosDetalle": [{
+                                "partido": "1",
+                                "partidos": [
+                                    "1"
+                                ],
+                                "votos": "0",
+                                "orden": 1
+                            },
+                            {
+                                "partido": "3",
+                                "partidos": [
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 3
+                            },
+                            {
+                                "partido": "6",
+                                "partidos": [
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 6
+                            },
+                            {
+                                "partido": "20",
+                                "partidos": [
+                                    "1",
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 20
+                            },
+                            {
+                                "partido": "21",
+                                "partidos": [
+                                    "1",
+                                    "3"
+                                ],
+                                "votos": "0",
+                                "orden": 21
+                            },
+                            {
+                                "partido": "22",
+                                "partidos": [
+                                    "1",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 22
+                            },
+                            {
+                                "partido": "23",
+                                "partidos": [
+                                    "3",
+                                    "6"
+                                ],
+                                "votos": "0",
+                                "orden": 23
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "MARIANO GONZALEZ AGUIRRE",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 30,
+                        "partidosDetalle": [{
+                                "partido": "2",
+                                "partidos": [
+                                    "2"
+                                ],
+                                "votos": "0",
+                                "orden": 2
+                            },
+                            {
+                                "partido": "4",
+                                "partidos": [
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 4
+                            },
+                            {
+                                "partido": "7",
+                                "partidos": [
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 7
+                            },
+                            {
+                                "partido": "40",
+                                "partidos": [
+                                    "2",
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 30
+                            },
+                            {
+                                "partido": "41",
+                                "partidos": [
+                                    "2",
+                                    "4"
+                                ],
+                                "votos": "0",
+                                "orden": 31
+                            },
+                            {
+                                "partido": "42",
+                                "partidos": [
+                                    "2",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 32
+                            },
+                            {
+                                "partido": "43",
+                                "partidos": [
+                                    "4",
+                                    "7"
+                                ],
+                                "votos": "0",
+                                "orden": 33
+                            }
+                        ],
+                        "ganador": false
+                    },
+                    {
+                        "candidato": "JOSE DE LA LUZ SOSA SALINAS",
+                        "votos": "0",
+                        "porcentaje": "0.0000",
+                        "orden": 40,
+                        "partidosDetalle": [{
+                                "partido": "5",
+                                "partidos": [
+                                    "5"
+                                ],
+                                "votos": "0",
+                                "orden": 5
+                            },
+                            {
+                                "partido": "8",
+                                "partidos": [
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 8
+                            },
+                            {
+                                "partido": "9",
+                                "partidos": [
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 9
+                            },
+                            {
+                                "partido": "30",
+                                "partidos": [
+                                    "5",
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 40
+                            },
+                            {
+                                "partido": "31",
+                                "partidos": [
+                                    "5",
+                                    "8"
+                                ],
+                                "votos": "0",
+                                "orden": 41
+                            },
+                            {
+                                "partido": "32",
+                                "partidos": [
+                                    "5",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 42
+                            },
+                            {
+                                "partido": "33",
+                                "partidos": [
+                                    "8",
+                                    "9"
+                                ],
+                                "votos": "0",
+                                "orden": 43
+                            }
+                        ],
+                        "ganador": false
+                    }
+                ]
+            }
+        }
+    }
+}
