@@ -1,0 +1,600 @@
+{
+    "circunscripcion": "Todas",
+    "votosDistritos": {
+        "resumenVotacion": {
+            "acumulados": {
+                "total": "4,912",
+                "porcentaje": "93.1008"
+            },
+            "nulos": {
+                "total": "190",
+                "porcentaje": "3.6012"
+            },
+            "noRegistradas": {
+                "total": "174",
+                "porcentaje": "3.2979"
+            },
+            "totalVotos": {
+                "total": "5,276"
+            }
+        },
+        "votos": [
+            {
+                "partido": "1",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 1,
+                "partidos": [
+                    "1"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "2",
+                "votos": "111",
+                "distritos": "0",
+                "orden": 2,
+                "partidos": [
+                    "2"
+                ],
+                "porcentaje": "2.1038",
+                "ganador": false
+            },
+            {
+                "partido": "3",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 3,
+                "partidos": [
+                    "3"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "4",
+                "votos": "12",
+                "distritos": "0",
+                "orden": 4,
+                "partidos": [
+                    "4"
+                ],
+                "porcentaje": "0.2274",
+                "ganador": false
+            },
+            {
+                "partido": "5",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 5,
+                "partidos": [
+                    "5"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "6",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 6,
+                "partidos": [
+                    "6"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "7",
+                "votos": "19",
+                "distritos": "0",
+                "orden": 7,
+                "partidos": [
+                    "7"
+                ],
+                "porcentaje": "0.3601",
+                "ganador": false
+            },
+            {
+                "partido": "8",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 8,
+                "partidos": [
+                    "8"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "9",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 9,
+                "partidos": [
+                    "9"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            },
+            {
+                "partido": "20",
+                "votos": "1,673",
+                "distritos": "1",
+                "orden": 20,
+                "partidos": [
+                    "1",
+                    "3",
+                    "6"
+                ],
+                "porcentaje": "31.7096",
+                "ganador": false
+            },
+            {
+                "partido": "40",
+                "votos": "1,204",
+                "distritos": "0",
+                "orden": 30,
+                "partidos": [
+                    "2",
+                    "4",
+                    "7"
+                ],
+                "porcentaje": "22.8203",
+                "ganador": false
+            },
+            {
+                "partido": "30",
+                "votos": "1,893",
+                "distritos": "1",
+                "orden": 40,
+                "partidos": [
+                    "5",
+                    "8",
+                    "9"
+                ],
+                "porcentaje": "35.8794",
+                "ganador": true
+            },
+            {
+                "partido": "51",
+                "votos": "0",
+                "distritos": "0",
+                "orden": 51,
+                "partidos": [
+                    "51"
+                ],
+                "porcentaje": "0.0000",
+                "ganador": false
+            }
+        ],
+        "votosTotal": "2"
+    },
+    "votosPartidosPoliticos": {
+        "resumenVotacion": {
+            "acumulados": {
+                "total": "5,090",
+                "porcentaje": "93.0360"
+            },
+            "nulos": {
+                "total": "206",
+                "porcentaje": "3.7653"
+            },
+            "noRegistradas": {
+                "total": "175",
+                "porcentaje": "3.1986"
+            },
+            "totalVotos": {
+                "total": "5,471"
+            }
+        },
+        "votos": [
+            {
+                "partido": "1",
+                "partidos": [
+                    "1"
+                ],
+                "orden": 1,
+                "votos": "723",
+                "porcentaje": "14.2043"
+            },
+            {
+                "partido": "2",
+                "partidos": [
+                    "2"
+                ],
+                "orden": 2,
+                "votos": "551",
+                "porcentaje": "10.8251"
+            },
+            {
+                "partido": "3",
+                "partidos": [
+                    "3"
+                ],
+                "orden": 3,
+                "votos": "489",
+                "porcentaje": "9.6070"
+            },
+            {
+                "partido": "4",
+                "partidos": [
+                    "4"
+                ],
+                "orden": 4,
+                "votos": "426",
+                "porcentaje": "8.3693"
+            },
+            {
+                "partido": "5",
+                "partidos": [
+                    "5"
+                ],
+                "orden": 5,
+                "votos": "516",
+                "porcentaje": "10.1375"
+            },
+            {
+                "partido": "6",
+                "partidos": [
+                    "6"
+                ],
+                "orden": 6,
+                "votos": "571",
+                "porcentaje": "11.2180"
+            },
+            {
+                "partido": "7",
+                "partidos": [
+                    "7"
+                ],
+                "orden": 7,
+                "votos": "423",
+                "porcentaje": "8.3104"
+            },
+            {
+                "partido": "8",
+                "partidos": [
+                    "8"
+                ],
+                "orden": 8,
+                "votos": "750",
+                "porcentaje": "14.7347"
+            },
+            {
+                "partido": "9",
+                "partidos": [
+                    "9"
+                ],
+                "orden": 9,
+                "votos": "641",
+                "porcentaje": "12.5933"
+            },
+            {
+                "partido": "51",
+                "partidos": [
+                    "51"
+                ],
+                "orden": 51,
+                "votos": "0",
+                "porcentaje": "0.0000"
+            }
+        ]
+    },
+    "representacionProporcional": {
+        "resumenVotacion": {
+            "acumulados": {
+                "total": "178",
+                "porcentaje": "91.2821"
+            },
+            "nulos": {
+                "total": "16",
+                "porcentaje": "8.2051"
+            },
+            "noRegistradas": {
+                "total": "1",
+                "porcentaje": "0.5128"
+            },
+            "totalVotos": {
+                "total": "195"
+            }
+        },
+        "votos": [
+            {
+                "partido": "1",
+                "orden": 1,
+                "coalicion": "-",
+                "votosPartido": "94",
+                "porcentaje": "48.2051"
+            },
+            {
+                "partido": "2",
+                "orden": 2,
+                "coalicion": "-",
+                "votosPartido": "32",
+                "porcentaje": "16.4103"
+            },
+            {
+                "partido": "3",
+                "orden": 3,
+                "coalicion": "-",
+                "votosPartido": "5",
+                "porcentaje": "2.5641"
+            },
+            {
+                "partido": "4",
+                "orden": 4,
+                "coalicion": "-",
+                "votosPartido": "14",
+                "porcentaje": "7.1795"
+            },
+            {
+                "partido": "5",
+                "orden": 5,
+                "coalicion": "-",
+                "votosPartido": "1",
+                "porcentaje": "0.5128"
+            },
+            {
+                "partido": "6",
+                "orden": 6,
+                "coalicion": "-",
+                "votosPartido": "11",
+                "porcentaje": "5.6410"
+            },
+            {
+                "partido": "7",
+                "orden": 7,
+                "coalicion": "-",
+                "votosPartido": "8",
+                "porcentaje": "4.1026"
+            },
+            {
+                "partido": "8",
+                "orden": 8,
+                "coalicion": "-",
+                "votosPartido": "1",
+                "porcentaje": "0.5128"
+            },
+            {
+                "partido": "9",
+                "orden": 9,
+                "coalicion": "-",
+                "votosPartido": "12",
+                "porcentaje": "6.1538"
+            }
+        ],
+        "listaCasillas": {
+            "header": [
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Casillas"
+                },
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Acta Digitalizada"
+                },
+                {
+                    "partidos": [
+                        "1"
+                    ],
+                    "orden": 1
+                },
+                {
+                    "partidos": [
+                        "2"
+                    ],
+                    "orden": 2
+                },
+                {
+                    "partidos": [
+                        "3"
+                    ],
+                    "orden": 3
+                },
+                {
+                    "partidos": [
+                        "4"
+                    ],
+                    "orden": 4
+                },
+                {
+                    "partidos": [
+                        "5"
+                    ],
+                    "orden": 5
+                },
+                {
+                    "partidos": [
+                        "6"
+                    ],
+                    "orden": 6
+                },
+                {
+                    "partidos": [
+                        "7"
+                    ],
+                    "orden": 7
+                },
+                {
+                    "partidos": [
+                        "8"
+                    ],
+                    "orden": 8
+                },
+                {
+                    "partidos": [
+                        "9"
+                    ],
+                    "orden": 9
+                },
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Candidaturas no registradas"
+                },
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Votos Nulos"
+                },
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Total"
+                },
+                {
+                    "partidos": [
+                        ""
+                    ],
+                    "texto": "Observaciones en Acta"
+                }
+            ],
+            "body": {
+                "2 especial 1": {
+                    "tabla": [
+                        {
+                            "casilla": "2 Especial 1",
+                            "url": "-",
+                            "votosPartidos": [
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "candidaturas": 0,
+                            "votosNulos": 0,
+                            "totalVotos": 0,
+                            "observaciones": "-",
+                            "tipoDigitalizacion": "-"
+                        }
+                    ]
+                },
+                "3 especial 1": {
+                    "tabla": [
+                        {
+                            "casilla": "3 Especial 1",
+                            "url": "-",
+                            "votosPartidos": [
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "candidaturas": 0,
+                            "votosNulos": 0,
+                            "totalVotos": 0,
+                            "observaciones": "-",
+                            "tipoDigitalizacion": "-"
+                        }
+                    ]
+                },
+                "5 especial 1": {
+                    "tabla": [
+                        {
+                            "casilla": "5 Especial 1",
+                            "url": "-",
+                            "votosPartidos": [
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "candidaturas": 0,
+                            "votosNulos": 0,
+                            "totalVotos": 0,
+                            "observaciones": "-",
+                            "tipoDigitalizacion": "-"
+                        }
+                    ]
+                },
+               
+                "33 especial 1": {
+                    "tabla": [
+                        {
+                            "casilla": "33 Especial 1",
+                            "url": "-",
+                            "votosPartidos": [
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "candidaturas": 0,
+                            "votosNulos": 0,
+                            "totalVotos": 0,
+                            "observaciones": "-",
+                            "tipoDigitalizacion": "-"
+                        }
+                    ]
+                },
+                "6482 especial 1": {
+                    "tabla": [
+                        {
+                            "casilla": "6482 Especial 1",
+                            "url": "-",
+                            "votosPartidos": [
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "candidaturas": 0,
+                            "votosNulos": 0,
+                            "totalVotos": 0,
+                            "observaciones": "-",
+                            "tipoDigitalizacion": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        "actasRP": {
+            "esperadas": {
+                "total": "1051",
+                "porcentaje": "100.0000"
+            },
+            "capturadas": {
+                "total": "6",
+                "porcentaje": "0.5709"
+            },
+            "contabilizadas": {
+                "total": "2",
+                "porcentaje": "0.1903"
+            }
+        }
+    }
+}
