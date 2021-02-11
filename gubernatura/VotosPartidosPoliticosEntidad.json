@@ -1,0 +1,104 @@
+{
+    "votosPartidosPoliticos": {
+        "votos": [
+            {
+                "partido": "1",
+                "votos": "0",
+                "orden": 1,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "1"
+                ]
+            },
+            {
+                "partido": "2",
+                "votos": "0",
+                "orden": 2,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "2"
+                ]
+            },
+            {
+                "partido": "3",
+                "votos": "0",
+                "orden": 3,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "3"
+                ]
+            },
+            {
+                "partido": "4",
+                "votos": "0",
+                "orden": 4,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "4"
+                ]
+            },
+            {
+                "partido": "5",
+                "votos": "0",
+                "orden": 5,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "5"
+                ]
+            },
+            {
+                "partido": "6",
+                "votos": "0",
+                "orden": 6,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "6"
+                ]
+            },
+            {
+                "partido": "7",
+                "votos": "0",
+                "orden": 7,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "7"
+                ]
+            },
+            {
+                "partido": "8",
+                "votos": "0",
+                "orden": 8,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "8"
+                ]
+            },
+            {
+                "partido": "9",
+                "votos": "0",
+                "orden": 9,
+                "porcentaje": "0.0000",
+                "partidos": [
+                    "9"
+                ]
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": {
+                "total": "0",
+                "porcentaje": "0.0000"
+            },
+            "nulos": {
+                "total": "0",
+                "porcentaje": "0.0000"
+            },
+            "noRegistradas": {
+                "total": "0",
+                "porcentaje": "0.0000"
+            },
+            "totalVotos": {
+                "total": "0"
+            }
+        }
+    }
+}
