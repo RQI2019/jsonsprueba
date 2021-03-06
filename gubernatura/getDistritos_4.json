@@ -1,0 +1,124 @@
+{
+  "distrito": 4,
+  "resumenVotacion": {
+    "acumulados": {
+      "total": 33586,
+      "porcentaje": 95.4094
+    },
+    "nulos": {
+      "total": 1579,
+      "porcentaje": 4.4855
+    },
+    "noRegistradas": {
+      "total": 37,
+      "porcentaje": 0.1051
+    },
+    "totalVotos": {
+      "total": 35202
+    }
+  },
+  "votosCandidatura": [{
+    "candidato": "América Melgosa Lecubarri",
+    "votos": 5408,
+    "porcentaje": 15.3628,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "PRI-VERDE-nueva alianza-PS",
+    "imagen": "america.jpg"
+  }, {
+    "candidato": "Romina Sojo Babiano",
+    "votos": 5914,
+    "porcentaje": 16.8002,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "PT",
+    "imagen": "romina.jpg"
+  }, {
+    "candidato": "Leonela Peñafiel Navarro",
+    "votos": 557,
+    "porcentaje": 1.5823,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "MOVIMIENTO CIUDADANO",
+    "imagen": "leonela.jpg"
+  }, {
+    "candidato": "Ibor Bolde Pablo",
+    "votos": 12148,
+    "porcentaje": 34.5094,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "morena",
+    "imagen": "ibor.jpg"
+  }, {
+    "candidato": "Claudio Cagigal Cossio",
+    "votos": 1133,
+    "porcentaje": 3.2186,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "encuentro social",
+    "imagen": "claudio.jpg"
+  }, {
+    "candidato": "Merlin Ocio Ubera",
+    "votos": 8426,
+    "porcentaje": 23.9361,
+    "partidosDetalle": [{
+      "partido": "PAN-PRD-PAC",
+      "votos": 83
+    }, {
+      "partido": "PAN",
+      "votos": 6758
+    }, {
+      "partido": "PRD",
+      "votos": 659
+    }, {
+      "partido": "PAC",
+      "votos": 843
+    }, {
+      "partido": "PAN-PRD",
+      "votos": 48
+    }, {
+      "partido": "PAN-PAC",
+      "votos": 28
+    }, {
+      "partido": "PRD-PAC",
+      "votos": 7
+    }],
+    "ganador": false,
+    "candidatura": "PAN-PRD-PAC",
+    "imagen": "merlin.jpg"
+  }, {
+    "candidato": null,
+    "votos": 37,
+    "porcentaje": 0.1051,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "Candidatos no registrados",
+    "imagen": null
+  }, {
+    "candidato": null,
+    "votos": 1579,
+    "porcentaje": 4.4855,
+    "partidosDetalle": [],
+    "ganador": false,
+    "candidatura": "Votos nulos",
+    "imagen": null
+  }],
+  "estadisticas": {
+    "actas": {
+      "capturadas": {
+        "total": 89,
+        "porcentaje": 84.7619
+      },
+      "contabilizadas": {
+        "total": 87,
+        "porcentaje": 82.8571
+      },
+      "esperadas": {
+        "total": 105,
+        "porcentaje": 100.0
+      }
+    },
+    "listaNominal": 54638,
+    "participacionCiudadana": 64.2666
+  }
+}
