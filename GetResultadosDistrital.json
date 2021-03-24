@@ -1,0 +1,108 @@
+[
+    {
+        "distritoID": 1,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 2,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 3,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 4,
+        "tipoElecID": 2,
+        "distribucionGeneral": [
+            {
+                "candID": 9,
+                "logo": "RSP204614524.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 96
+            },
+            {
+                "candID": 10,
+                "logo": "FUERZA-SOC204636627.png",
+                "nombre": "Fuerza Social por México",
+                "total": 129
+            },
+            {
+                "candID": 11,
+                "logo": "PAC204656425.png",
+                "nombre": "Partido Alianza Ciudadana",
+                "total": 235
+            },
+            {
+                "candID": 16,
+                "logo": "pri-pan-pr215134619.PNG",
+                "nombre": "Por Tlaxcala al frente",
+                "total": 1098
+            },
+            {
+                "candID": 1019,
+                "logo": "independie210022206.PNG",
+                "nombre": "Josué Castro",
+                "total": 118
+            }
+        ]
+    },
+    {
+        "distritoID": 5,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 6,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 7,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 8,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 9,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 10,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 11,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 12,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 13,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 14,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    },
+    {
+        "distritoID": 15,
+        "tipoElecID": 2,
+        "distribucionGeneral": []
+    }
+]
