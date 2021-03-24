@@ -2,17 +2,47 @@
     {
         "distritoID": 1,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 2,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 3,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 4,
@@ -22,87 +52,212 @@
                 "candID": 9,
                 "logo": "RSP204614524.png",
                 "nombre": "Redes Sociales Progresistas",
-                "total": 96
+                "total": 96,
+                "porcentaje": 5.2603
             },
             {
                 "candID": 10,
                 "logo": "FUERZA-SOC204636627.png",
                 "nombre": "Fuerza Social por México",
-                "total": 129
+                "total": 129,
+                "porcentaje": 7.0685
             },
             {
                 "candID": 11,
                 "logo": "PAC204656425.png",
                 "nombre": "Partido Alianza Ciudadana",
-                "total": 235
+                "total": 235,
+                "porcentaje": 12.8767
             },
             {
                 "candID": 16,
                 "logo": "pri-pan-pr215134619.PNG",
                 "nombre": "Por Tlaxcala al frente",
-                "total": 1098
+                "total": 1098,
+                "porcentaje": 60.1644
             },
             {
                 "candID": 1019,
                 "logo": "independie210022206.PNG",
                 "nombre": "Josué Castro",
-                "total": 118
+                "total": 118,
+                "porcentaje": 6.4658
             }
-        ]
+        ],
+        "resumenVotacion": {
+            "acomulados": 1676,
+            "porcentajeAcomulados": 91.8356,
+            "noRegistradas": 61,
+            "porcentajeNoRegistradas": 3.3425,
+            "nulos": 88,
+            "porcentajeNulos": 4.8219,
+            "total": 1825,
+            "porcentajeTotal": 100.0
+        }
     },
     {
         "distritoID": 5,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 6,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 7,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 8,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 9,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 10,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 11,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 12,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 13,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 14,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     },
     {
         "distritoID": 15,
         "tipoElecID": 2,
-        "distribucionGeneral": []
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acomulados": null,
+            "porcentajeAcomulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        }
     }
 ]
