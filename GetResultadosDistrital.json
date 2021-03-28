@@ -12,7 +12,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 2,
@@ -27,7 +28,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 3,
@@ -42,7 +44,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 4,
@@ -52,53 +55,751 @@
                 "candID": 9,
                 "logo": "RSP204614524.png",
                 "nombre": "Redes Sociales Progresistas",
-                "total": 96,
-                "porcentaje": 5.2603,
-                "candidaturasDetalles": null
+                "total": 390,
+                "porcentaje": 7.8804,
+                "candidaturasDetalles": []
             },
             {
                 "candID": 10,
                 "logo": "FUERZA-SOC204636627.png",
                 "nombre": "Fuerza Social por México",
-                "total": 129,
-                "porcentaje": 7.0685,
-                "candidaturasDetalles": null
+                "total": 488,
+                "porcentaje": 9.8606,
+                "candidaturasDetalles": []
             },
             {
                 "candID": 11,
                 "logo": "PAC204656425.png",
                 "nombre": "Partido Alianza Ciudadana",
-                "total": 235,
-                "porcentaje": 12.8767,
-                "candidaturasDetalles": null
+                "total": 362,
+                "porcentaje": 7.3146,
+                "candidaturasDetalles": []
             },
             {
                 "candID": 16,
                 "logo": "pri-pan-pr215134619.PNG",
                 "nombre": "Por Tlaxcala al frente",
-                "total": 1098,
-                "porcentaje": 60.1644,
-                "candidaturasDetalles": null
+                "total": 2469,
+                "porcentaje": 49.8889,
+                "candidaturasDetalles": [
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 341
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 425
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 374
+                    },
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 311
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 363
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 335
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 320
+                    }
+                ]
             },
             {
                 "candID": 1019,
                 "logo": "independie210022206.PNG",
                 "nombre": "Josué Castro",
-                "total": 118,
-                "porcentaje": 6.4658,
-                "candidaturasDetalles": null
+                "total": 511,
+                "porcentaje": 10.3253,
+                "candidaturasDetalles": []
             }
         ],
         "resumenVotacion": {
-            "acumulados": 1676,
-            "porcentajeAcumulados": 91.8356,
-            "noRegistradas": 61,
-            "porcentajeNoRegistradas": 3.3425,
-            "nulos": 88,
-            "porcentajeNulos": 4.8219,
-            "total": 1825,
+            "acumulados": 4220,
+            "porcentajeAcumulados": 85.2698,
+            "noRegistradas": 398,
+            "porcentajeNoRegistradas": 8.0420,
+            "nulos": 331,
+            "porcentajeNulos": 6.6882,
+            "total": 4949,
             "porcentajeTotal": 100.0
-        }
+        },
+        "secciones": [
+            {
+                "seccionID": 143,
+                "seccion": "0012",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 18
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 14
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 12
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 7,
+                    "VotosNulos": 5,
+                    "Total": 142
+                }
+            },
+            {
+                "seccionID": 144,
+                "seccion": "0013",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 43
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 42
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 110
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 14
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 74
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 17
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 17
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 16
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 79
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 20
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 16
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 81,
+                    "VotosNulos": 11,
+                    "Total": 540
+                }
+            },
+            {
+                "seccionID": 145,
+                "seccion": "0014",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 108
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 82
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 77
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 31
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 30
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 68
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 80
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 32
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 67
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 33
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 172
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 34,
+                    "VotosNulos": 82,
+                    "Total": 896
+                }
+            },
+            {
+                "seccionID": 146,
+                "seccion": "0015",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 77
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 15
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 106
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 108
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 17
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 82
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 80
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 21
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 89
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 80
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 74,
+                    "VotosNulos": 71,
+                    "Total": 831
+                }
+            },
+            {
+                "seccionID": 147,
+                "seccion": "0016",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 14
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 16
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 84
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 95
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 65
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 17
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 96
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 20
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 71,
+                    "VotosNulos": 12,
+                    "Total": 529
+                }
+            },
+            {
+                "seccionID": 148,
+                "seccion": "0017",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 12
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 10
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 15
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 10
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 12
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 10
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 10
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 61
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 90
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 12
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 103,
+                    "VotosNulos": 114,
+                    "Total": 468
+                }
+            },
+            {
+                "seccionID": 149,
+                "seccion": "0018",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 8
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 8
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 6
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 45
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 99
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 68
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 12,
+                    "VotosNulos": 27,
+                    "Total": 324
+                }
+            },
+            {
+                "seccionID": 150,
+                "seccion": "0019",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 17
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 41
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 12
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 71
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 18
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 40
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 12
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 8
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 7
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 30
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 7,
+                    "VotosNulos": 5,
+                    "Total": 277
+                }
+            },
+            {
+                "seccionID": 151,
+                "seccion": "0020",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 85
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 14
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 35
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 106
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 95
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 82
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 27
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 58
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 33
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 9
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 95
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 7,
+                    "VotosNulos": 3,
+                    "Total": 649
+                }
+            },
+            {
+                "seccionID": 152,
+                "seccion": "0021",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido Acción Nacional",
+                        "logo": "PAN204011014.png",
+                        "votos": 1
+                    },
+                    {
+                        "candidatura": "Partido Revolucionario Institucional",
+                        "logo": "PRI204250045.png",
+                        "votos": 65
+                    },
+                    {
+                        "candidatura": "Partido de la Revolución Democrática",
+                        "logo": "PRD204329971.png",
+                        "votos": 31
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 22
+                    },
+                    {
+                        "candidatura": "Fuerza Social por México",
+                        "logo": "FUERZA-SOC204636627.png",
+                        "votos": 43
+                    },
+                    {
+                        "candidatura": "Partido Alianza Ciudadana",
+                        "logo": "PAC204656425.png",
+                        "votos": 4
+                    },
+                    {
+                        "candidatura": "Por Tlaxcala al frente",
+                        "logo": "pri-pan-pr215134619.PNG",
+                        "votos": 8
+                    },
+                    {
+                        "candidatura": "PRI-PAN",
+                        "logo": "pri-pan215850919.PNG",
+                        "votos": 66
+                    },
+                    {
+                        "candidatura": "PRI-PRD",
+                        "logo": "pri-prd215928241.PNG",
+                        "votos": 32
+                    },
+                    {
+                        "candidatura": "PAN-PRD",
+                        "logo": "pan-prd215941699.PNG",
+                        "votos": 12
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 6
+                    }
+                ],
+                "resumenVotacion": {
+                    "NoRegistradas": 2,
+                    "VotosNulos": 1,
+                    "Total": 293
+                }
+            }
+        ]
     },
     {
         "distritoID": 5,
@@ -113,7 +814,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 6,
@@ -128,7 +830,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 7,
@@ -143,7 +846,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 8,
@@ -158,7 +862,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 9,
@@ -173,7 +878,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 10,
@@ -188,7 +894,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 11,
@@ -203,7 +910,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 12,
@@ -218,7 +926,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 13,
@@ -233,7 +942,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 14,
@@ -248,7 +958,8 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     },
     {
         "distritoID": 15,
@@ -263,6 +974,7 @@
             "porcentajeNulos": 0.0,
             "total": null,
             "porcentajeTotal": 0.0
-        }
+        },
+        "secciones": []
     }
 ]
