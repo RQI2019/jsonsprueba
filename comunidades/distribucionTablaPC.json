@@ -1,0 +1,39 @@
+{
+    "resultados": [{
+        "Tipo": 2,
+        "Descripcion": "movimiento ciudadano",
+        "Votos": 33,
+        "Color": "#EF6423",
+        "DistritosList": [3],
+        "porcentaje": 12.9412,
+        "ganador": false
+    }, {
+        "Tipo": 2,
+        "Descripcion": "morena",
+        "Votos": 81,
+        "Color": "#CE1D3B",
+        "DistritosList": [1, 2],
+        "porcentaje": 31.7647,
+        "ganador": true
+    }],
+    "resumenVotacion": {
+        "acumulados": {
+            "total": 251,
+            "porcentaje": 98.4314
+        },
+        "nulos": {
+            "total": 2,
+            "porcentaje": 0.7843
+        },
+        "noRegistradas": {
+            "total": 2,
+            "porcentaje": 0.7843
+        },
+        "totalVotos": {
+            "total": 255
+        }
+    },
+    "porcentaje": 100.0,
+    "votosTotal": 255,
+    "demarcacionesGanadasCorte": 3
+}
