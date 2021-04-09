@@ -1,1 +1,357 @@
-{"resultados":[{"Tipo":3,"Descripcion":"pri-verde-nueva alianza-ps","Votos":78886,"Color":"#00A651","DistritosList":null,"porcentaje":15.2564,"ganador":false},{"Tipo":3,"Descripcion":"movimiento ciudadano","Votos":26783,"Color":"#EF6423","DistritosList":null,"porcentaje":5.1798,"ganador":false},{"Tipo":3,"Descripcion":"PAN-PRD-PAC","Votos":102859,"Color":"#424686","DistritosList":null,"porcentaje":19.8927,"ganador":false},{"Tipo":3,"Descripcion":"PT-morena-encuentro social","Votos":131551,"Color":"#F03A43","DistritosList":[1,2,3,7,9,10,12,14],"porcentaje":25.4417,"ganador":true},{"Tipo":3,"Descripcion":"candidatos no registrados","Votos":3495,"Color":"#E7D0E0","DistritosList":null,"porcentaje":0.6759,"ganador":false},{"Tipo":3,"Descripcion":"votos nulos","Votos":22713,"Color":"#E7D0E0","DistritosList":null,"porcentaje":4.3926,"ganador":false},{"Tipo":3,"Descripcion":"pri-verde-ps","Votos":3511,"Color":"#00A651","DistritosList":null,"porcentaje":0.6790,"ganador":false},{"Tipo":3,"Descripcion":"nueva alianza","Votos":2305,"Color":"#00A6C6","DistritosList":null,"porcentaje":0.4458,"ganador":false},{"Tipo":3,"Descripcion":"ciro rios salinas","Votos":1935,"Color":"#E67E22","DistritosList":null,"porcentaje":0.3742,"ganador":false},{"Tipo":3,"Descripcion":"jose carlos serrano hernandez","Votos":2227,"Color":"#4A235A","DistritosList":null,"porcentaje":0.4307,"ganador":false},{"Tipo":3,"Descripcion":"addiel lubin mejia hernandez","Votos":2573,"Color":"#CC0000","DistritosList":null,"porcentaje":0.4976,"ganador":false},{"Tipo":3,"Descripcion":"pt","Votos":27895,"Color":"#F03A43","DistritosList":null,"porcentaje":5.3948,"ganador":false},{"Tipo":3,"Descripcion":"morena","Votos":88418,"Color":"#CE1D3B","DistritosList":[4,5,6,8,11,13,15],"porcentaje":17.0998,"ganador":false},{"Tipo":3,"Descripcion":"encuentro social","Votos":11027,"Color":"#87C144","DistritosList":null,"porcentaje":2.1326,"ganador":false},{"Tipo":3,"Descripcion":"kerbing martinez pinillo","Votos":2500,"Color":"#E5E7E9","DistritosList":null,"porcentaje":0.4835,"ganador":false},{"Tipo":3,"Descripcion":"marco antonio valencia barrientos","Votos":1665,"Color":"#D7DBDD","DistritosList":null,"porcentaje":0.3220,"ganador":false},{"Tipo":3,"Descripcion":"angel cocoletzi cocoletzi","Votos":2994,"Color":"#DC7633","DistritosList":null,"porcentaje":0.5790,"ganador":false},{"Tipo":3,"Descripcion":"antonio lima flores","Votos":3732,"Color":"#D7CCC8","DistritosList":null,"porcentaje":0.7218,"ganador":false}],"resumenVotacion":{"acumulados":{"total":490861,"porcentaje":94.9314},"nulos":{"total":22713,"porcentaje":4.3926},"noRegistradas":{"total":3495,"porcentaje":0.6759},"totalVotos":{"total":517069}},"porcentaje":100.0,"votosTotal":517069,"demarcacionesGanadasCorte":15}
+{
+    "resultados": [{
+        "Tipo": 3,
+        "Descripcion": "pri-verde-nueva alianza-ps",
+        "Votos": 78886,
+        "Color": "#00A651",
+        "DistritosList": null,
+        "porcentaje": 15.2564,
+        "ganador": false,
+        "tipoResultado": 30
+    }, {
+        "Tipo": 3,
+        "Descripcion": "movimiento ciudadano",
+        "Votos": 26783,
+        "Color": "#EF6423",
+        "DistritosList": null,
+        "porcentaje": 5.1798,
+        "ganador": false,
+        "tipoResultado": 1
+    }, {
+        "Tipo": 3,
+        "Descripcion": "PAN-PRD-PAC",
+        "Votos": 102859,
+        "Color": "#424686",
+        "DistritosList": null,
+        "porcentaje": 19.8927,
+        "ganador": false,
+        "tipoResultado": 20
+    }, {
+        "Tipo": 3,
+        "Descripcion": "PT-morena-encuentro social",
+        "Votos": 131551,
+        "Color": "#F03A43",
+        "DistritosList": [1, 2, 3, 7, 9, 10, 12, 14],
+        "porcentaje": 25.4417,
+        "ganador": true,
+        "tipoResultado": 20
+    }, {
+        "Tipo": 3,
+        "Descripcion": "candidatos no registrados",
+        "Votos": 3495,
+        "Color": "#E7D0E0",
+        "DistritosList": null,
+        "porcentaje": 0.6759,
+        "ganador": false,
+        "tipoResultado": 901
+    }, {
+        "Tipo": 3,
+        "Descripcion": "votos nulos",
+        "Votos": 22713,
+        "Color": "#E7D0E0",
+        "DistritosList": null,
+        "porcentaje": 4.3926,
+        "ganador": false,
+        "tipoResultado": 902
+    }, {
+        "Tipo": 3,
+        "Descripcion": "pri-verde-ps",
+        "Votos": 3511,
+        "Color": "#00A651",
+        "DistritosList": null,
+        "porcentaje": 0.6790,
+        "ganador": false,
+        "tipoResultado": 30
+    }, {
+        "Tipo": 3,
+        "Descripcion": "nueva alianza",
+        "Votos": 2305,
+        "Color": "#00A6C6",
+        "DistritosList": null,
+        "porcentaje": 0.4458,
+        "ganador": false,
+        "tipoResultado": 30
+    }, {
+        "Tipo": 3,
+        "Descripcion": "ciro rios salinas",
+        "Votos": 1935,
+        "Color": "#E67E22",
+        "DistritosList": null,
+        "porcentaje": 0.3742,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "jose carlos serrano hernandez",
+        "Votos": 2227,
+        "Color": "#4A235A",
+        "DistritosList": null,
+        "porcentaje": 0.4307,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "addiel lubin mejia hernandez",
+        "Votos": 2573,
+        "Color": "#CC0000",
+        "DistritosList": null,
+        "porcentaje": 0.4976,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "pt",
+        "Votos": 27895,
+        "Color": "#F03A43",
+        "DistritosList": null,
+        "porcentaje": 5.3948,
+        "ganador": false,
+        "tipoResultado": 1
+    }, {
+        "Tipo": 3,
+        "Descripcion": "morena",
+        "Votos": 88418,
+        "Color": "#CE1D3B",
+        "DistritosList": [4, 5, 6, 8, 11, 13, 15],
+        "porcentaje": 17.0998,
+        "ganador": false,
+        "tipoResultado": 1
+    }, {
+        "Tipo": 3,
+        "Descripcion": "encuentro social",
+        "Votos": 11027,
+        "Color": "#87C144",
+        "DistritosList": null,
+        "porcentaje": 2.1326,
+        "ganador": false,
+        "tipoResultado": 1
+    }, {
+        "Tipo": 3,
+        "Descripcion": "kerbing martinez pinillo",
+        "Votos": 2500,
+        "Color": "#E5E7E9",
+        "DistritosList": null,
+        "porcentaje": 0.4835,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "marco antonio valencia barrientos",
+        "Votos": 1665,
+        "Color": "#D7DBDD",
+        "DistritosList": null,
+        "porcentaje": 0.3220,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "angel cocoletzi cocoletzi",
+        "Votos": 2994,
+        "Color": "#DC7633",
+        "DistritosList": null,
+        "porcentaje": 0.5790,
+        "ganador": false,
+        "tipoResultado": 40
+    }, {
+        "Tipo": 3,
+        "Descripcion": "antonio lima flores",
+        "Votos": 3732,
+        "Color": "#D7CCC8",
+        "DistritosList": null,
+        "porcentaje": 0.7218,
+        "ganador": false,
+        "tipoResultado": 40
+    }],
+    "resumenVotacion": {
+        "acumulados": {
+            "total": 490861,
+            "porcentaje": 94.9314
+        },
+        "nulos": {
+            "total": 22713,
+            "porcentaje": 4.3926
+        },
+        "noRegistradas": {
+            "total": 3495,
+            "porcentaje": 0.6759
+        },
+        "totalVotos": {
+            "total": 517069
+        }
+    },
+    "porcentaje": 100.0,
+    "votosTotal": 517069,
+    "demarcacionesGanadasCorte": 15,
+    "PartPyCI": [{
+        "Tipo": null,
+        "Descripcion": "morena",
+        "Votos": 132268,
+        "Color": "#CE1D3B",
+        "DistritosList": null,
+        "porcentaje": 25.5803,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "pri-verde-nueva alianza-ps",
+        "Votos": 78886,
+        "Color": "#00A651",
+        "DistritosList": null,
+        "porcentaje": 15.2564,
+        "ganador": null,
+        "tipoResultado": 30
+    }, {
+        "Tipo": null,
+        "Descripcion": "pt",
+        "Votos": 71746,
+        "Color": "#F03A43",
+        "DistritosList": null,
+        "porcentaje": 13.8755,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "encuentro social",
+        "Votos": 54877,
+        "Color": "#87C144",
+        "DistritosList": null,
+        "porcentaje": 10.6131,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "PAN",
+        "Votos": 34287,
+        "Color": "#008CD1",
+        "DistritosList": null,
+        "porcentaje": 6.6310,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "PRD",
+        "Votos": 34286,
+        "Color": "#FFD203",
+        "DistritosList": null,
+        "porcentaje": 6.6308,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "PAC",
+        "Votos": 34286,
+        "Color": "#1D428F",
+        "DistritosList": null,
+        "porcentaje": 6.6308,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "movimiento ciudadano",
+        "Votos": 26783,
+        "Color": "#EF6423",
+        "DistritosList": null,
+        "porcentaje": 5.1798,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "votos nulos",
+        "Votos": 22713,
+        "Color": "#E7D0E0",
+        "DistritosList": null,
+        "porcentaje": 4.3926,
+        "ganador": null,
+        "tipoResultado": 902
+    }, {
+        "Tipo": null,
+        "Descripcion": "antonio lima flores",
+        "Votos": 3732,
+        "Color": "#D7CCC8",
+        "DistritosList": null,
+        "porcentaje": 0.7218,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "pri-verde-ps",
+        "Votos": 3511,
+        "Color": "#00A651",
+        "DistritosList": null,
+        "porcentaje": 0.6790,
+        "ganador": null,
+        "tipoResultado": 30
+    }, {
+        "Tipo": null,
+        "Descripcion": "candidatos no registrados",
+        "Votos": 3495,
+        "Color": "#E7D0E0",
+        "DistritosList": null,
+        "porcentaje": 0.6759,
+        "ganador": null,
+        "tipoResultado": 901
+    }, {
+        "Tipo": null,
+        "Descripcion": "angel cocoletzi cocoletzi",
+        "Votos": 2994,
+        "Color": "#DC7633",
+        "DistritosList": null,
+        "porcentaje": 0.5790,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "addiel lubin mejia hernandez",
+        "Votos": 2573,
+        "Color": "#CC0000",
+        "DistritosList": null,
+        "porcentaje": 0.4976,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "kerbing martinez pinillo",
+        "Votos": 2500,
+        "Color": "#E5E7E9",
+        "DistritosList": null,
+        "porcentaje": 0.4835,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "nueva alianza",
+        "Votos": 2305,
+        "Color": "#00A6C6",
+        "DistritosList": null,
+        "porcentaje": 0.4458,
+        "ganador": null,
+        "tipoResultado": 1
+    }, {
+        "Tipo": null,
+        "Descripcion": "jose carlos serrano hernandez",
+        "Votos": 2227,
+        "Color": "#4A235A",
+        "DistritosList": null,
+        "porcentaje": 0.4307,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "ciro rios salinas",
+        "Votos": 1935,
+        "Color": "#E67E22",
+        "DistritosList": null,
+        "porcentaje": 0.3742,
+        "ganador": null,
+        "tipoResultado": 40
+    }, {
+        "Tipo": null,
+        "Descripcion": "marco antonio valencia barrientos",
+        "Votos": 1665,
+        "Color": "#D7DBDD",
+        "DistritosList": null,
+        "porcentaje": 0.3220,
+        "ganador": null,
+        "tipoResultado": 40
+    }]
+}
