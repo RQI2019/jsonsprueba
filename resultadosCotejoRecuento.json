@@ -1,0 +1,518 @@
+[
+    {
+        "demarcacionID": 1,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 2,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 3,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 4,
+        "tipoElecID": 2,
+        "distribucionGeneral": [
+            {
+                "candID": 8,
+                "logo": "PES204553027.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 106,
+                "porcentaje": 13.2832,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 9,
+                "logo": "RSP204614524.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 29,
+                "porcentaje": 3.6341,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "IMPACTO-SO204851657.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 34,
+                "porcentaje": 4.2607,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 1019,
+                "logo": "independie210022206.PNG",
+                "nombre": "Josué Castro",
+                "total": 26,
+                "porcentaje": 3.2581,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 1021,
+                "logo": "juntosHare210927736.png",
+                "nombre": "Juntos Haremos Historia",
+                "total": 588,
+                "porcentaje": 73.6842,
+                "candidaturasDetalles": [
+                    {
+                        "candidatura": "Partido del Trabajo",
+                        "logo": "PT204418598.png",
+                        "votos": 97
+                    },
+                    {
+                        "candidatura": "Morena",
+                        "logo": "MORENA204530270.png",
+                        "votos": 84
+                    },
+                    {
+                        "candidatura": "Encuentro Social Tlaxcala",
+                        "logo": "PEST204831803.png",
+                        "votos": 76
+                    },
+                    {
+                        "candidatura": "Juntos Haremos Historia",
+                        "logo": "juntosHare210927736.png",
+                        "votos": 200
+                    },
+                    {
+                        "candidatura": "Morena-Encuentro",
+                        "logo": "morenaEncu211003534.PNG",
+                        "votos": 32
+                    },
+                    {
+                        "candidatura": "Morena-PT",
+                        "logo": "morenaPT211018181.PNG",
+                        "votos": 77
+                    },
+                    {
+                        "candidatura": "PT-Encuentro",
+                        "logo": "ptEncuentr211034844.PNG",
+                        "votos": 22
+                    }
+                ]
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 783,
+            "porcentajeAcumulados": 98.1203,
+            "noRegistradas": 9,
+            "porcentajeNoRegistradas": 1.1278,
+            "nulos": 6,
+            "porcentajeNulos": 0.7519,
+            "total": 798,
+            "porcentajeTotal": 100.0
+        },
+        "secciones": [
+            {
+                "seccionID": 143,
+                "seccion": "0012",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido del Trabajo",
+                        "logo": "PT204418598.png",
+                        "votos": 45
+                    },
+                    {
+                        "candidatura": "Morena",
+                        "logo": "MORENA204530270.png",
+                        "votos": 22
+                    },
+                    {
+                        "candidatura": "Partido Encuentro Solidario",
+                        "logo": "PES204553027.png",
+                        "votos": 18
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Encuentro Social Tlaxcala",
+                        "logo": "PEST204831803.png",
+                        "votos": 59
+                    },
+                    {
+                        "candidatura": "Impacto Social “SI”",
+                        "logo": "IMPACTO-SO204851657.png",
+                        "votos": 14
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 11
+                    },
+                    {
+                        "candidatura": "Juntos Haremos Historia",
+                        "logo": "juntosHare210927736.png",
+                        "votos": 106
+                    },
+                    {
+                        "candidatura": "Morena-Encuentro",
+                        "logo": "morenaEncu211003534.PNG",
+                        "votos": 19
+                    },
+                    {
+                        "candidatura": "Morena-PT",
+                        "logo": "morenaPT211018181.PNG",
+                        "votos": 66
+                    },
+                    {
+                        "candidatura": "PT-Encuentro",
+                        "logo": "ptEncuentr211034844.PNG",
+                        "votos": 9
+                    }
+                ],
+                "resumenVotacion": {
+                    "noRegistradas": 5,
+                    "votosNulos": 3,
+                    "total": 388
+                }
+            },
+            {
+                "seccionID": 144,
+                "seccion": "0013",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido del Trabajo",
+                        "logo": "PT204418598.png",
+                        "votos": 37
+                    },
+                    {
+                        "candidatura": "Morena",
+                        "logo": "MORENA204530270.png",
+                        "votos": 31
+                    },
+                    {
+                        "candidatura": "Partido Encuentro Solidario",
+                        "logo": "PES204553027.png",
+                        "votos": 30
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Encuentro Social Tlaxcala",
+                        "logo": "PEST204831803.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Impacto Social “SI”",
+                        "logo": "IMPACTO-SO204851657.png",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 13
+                    },
+                    {
+                        "candidatura": "Juntos Haremos Historia",
+                        "logo": "juntosHare210927736.png",
+                        "votos": 93
+                    },
+                    {
+                        "candidatura": "Morena-Encuentro",
+                        "logo": "morenaEncu211003534.PNG",
+                        "votos": 7
+                    },
+                    {
+                        "candidatura": "Morena-PT",
+                        "logo": "morenaPT211018181.PNG",
+                        "votos": 10
+                    },
+                    {
+                        "candidatura": "PT-Encuentro",
+                        "logo": "ptEncuentr211034844.PNG",
+                        "votos": 10
+                    }
+                ],
+                "resumenVotacion": {
+                    "noRegistradas": 3,
+                    "votosNulos": 2,
+                    "total": 275
+                }
+            },
+            {
+                "seccionID": 145,
+                "seccion": "0014",
+                "candidaturas": [
+                    {
+                        "candidatura": "Partido del Trabajo",
+                        "logo": "PT204418598.png",
+                        "votos": 15
+                    },
+                    {
+                        "candidatura": "Morena",
+                        "logo": "MORENA204530270.png",
+                        "votos": 31
+                    },
+                    {
+                        "candidatura": "Partido Encuentro Solidario",
+                        "logo": "PES204553027.png",
+                        "votos": 58
+                    },
+                    {
+                        "candidatura": "Redes Sociales Progresistas",
+                        "logo": "RSP204614524.png",
+                        "votos": 5
+                    },
+                    {
+                        "candidatura": "Encuentro Social Tlaxcala",
+                        "logo": "PEST204831803.png",
+                        "votos": 4
+                    },
+                    {
+                        "candidatura": "Impacto Social “SI”",
+                        "logo": "IMPACTO-SO204851657.png",
+                        "votos": 7
+                    },
+                    {
+                        "candidatura": "Josué Castro",
+                        "logo": "independie210022206.PNG",
+                        "votos": 2
+                    },
+                    {
+                        "candidatura": "Juntos Haremos Historia",
+                        "logo": "juntosHare210927736.png",
+                        "votos": 1
+                    },
+                    {
+                        "candidatura": "Morena-Encuentro",
+                        "logo": "morenaEncu211003534.PNG",
+                        "votos": 6
+                    },
+                    {
+                        "candidatura": "Morena-PT",
+                        "logo": "morenaPT211018181.PNG",
+                        "votos": 1
+                    },
+                    {
+                        "candidatura": "PT-Encuentro",
+                        "logo": "ptEncuentr211034844.PNG",
+                        "votos": 3
+                    }
+                ],
+                "resumenVotacion": {
+                    "noRegistradas": 1,
+                    "votosNulos": 1,
+                    "total": 135
+                }
+            }
+        ]
+    },
+    {
+        "demarcacionID": 5,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 6,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 7,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 8,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 9,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 10,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 11,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 12,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 13,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 14,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    },
+    {
+        "demarcacionID": 15,
+        "tipoElecID": 2,
+        "distribucionGeneral": [],
+        "resumenVotacion": {
+            "acumulados": null,
+            "porcentajeAcumulados": 0.0,
+            "noRegistradas": null,
+            "porcentajeNoRegistradas": 0.0,
+            "nulos": null,
+            "porcentajeNulos": 0.0,
+            "total": null,
+            "porcentajeTotal": 0.0
+        },
+        "secciones": []
+    }
+]
