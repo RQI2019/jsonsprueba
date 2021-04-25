@@ -1,17 +1,1 @@
-[{
-    "tipoEleccion": "gubernatura",
-    "clave": "20210425_1313_PREP_GOB_TLAX",
-    "urlCarpeta": "C:\\jsonExamples\\ExcelBD\\20210425_1313_PREP_GOB_TLAX"
-}, {
-    "tipoEleccion": "diputaciones",
-    "clave": "20210425_1313_PREP_DIP_LOC_TLAX",
-    "urlCarpeta": "C:\\jsonExamples\\ExcelBD\\20210425_1313_PREP_DIP_LOC_TLAX"
-}, {
-    "tipoEleccion": "ayuntamientos",
-    "clave": "20210425_1313_PREP_AYUN_TLAX",
-    "urlCarpeta": "C:\\jsonExamples\\ExcelBD\\20210425_1313_PREP_AYUN_TLAX"
-}, {
-    "tipoEleccion": "comunidades",
-    "clave": "20210425_1313_PREP_PRES_MUN_TLAX",
-    "urlCarpeta": "C:\\jsonExamples\\ExcelBD\\20210425_1313_PREP_PRES_MUN_TLAX"
-}]
+[{"tipoEleccion":"gubernatura","clave":"20210425_1343_PREP_GOB_TLAX","urlCarpeta":"C:\\jsonExamples\\ExcelBD\\20210425_1343_PREP_GOB_TLAX"},{"tipoEleccion":"diputaciones","clave":"20210425_1343_PREP_DIP_LOC_TLAX","urlCarpeta":"C:\\jsonExamples\\ExcelBD\\20210425_1343_PREP_DIP_LOC_TLAX"},{"tipoEleccion":"ayuntamientos","clave":"20210425_1343_PREP_AYUN_TLAX","urlCarpeta":"C:\\jsonExamples\\ExcelBD\\20210425_1343_PREP_AYUN_TLAX"},{"tipoEleccion":"comunidades","clave":"20210425_1343_PREP_PRES_MUN_TLAX","urlCarpeta":"C:\\jsonExamples\\ExcelBD\\20210425_1343_PREP_PRES_MUN_TLAX"}]
