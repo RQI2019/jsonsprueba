@@ -1,0 +1,1067 @@
+[{
+        "demarcacionID": 1,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14204,
+                "porcentaje": 44.15019,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 13353,
+                "porcentaje": 41.5050,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1081,
+                "porcentaje": 3.3600,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 196,
+                "porcentaje": 0.6092,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 332,
+                "porcentaje": 1.0319,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1484,
+                "porcentaje": 4.6127,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 707,
+                "porcentaje": 2.1975,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 31357,
+            "porcentajeAcumulados": 97.4667,
+            "noRegistradas": 6,
+            "porcentajeNoRegistradas": 0.0186,
+            "nulos": 808,
+            "porcentajeNulos": 2.5115,
+            "total": 32172,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 2,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 18774,
+                "porcentaje": 46.2265,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 16581,
+                "porcentaje": 40.8268,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 402,
+                "porcentaje": 0.9898,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 170,
+                "porcentaje": 0.4185,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 275,
+                "porcentaje": 0.6771,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 2648,
+                "porcentaje": 6.5200,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 519,
+                "porcentaje": 1.2779,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 39369,
+            "porcentajeAcumulados": 96.9369,
+            "noRegistradas": 24,
+            "porcentajeNoRegistradas": 0.0590,
+            "nulos": 1218,
+            "porcentajeNulos": 2.9990,
+            "total": 40613,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 3,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 17529,
+                "porcentaje": 40.5632,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 19239,
+                "porcentaje": 44.5202,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 783,
+                "porcentaje": 1.8119,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 401,
+                "porcentaje": 0.9279,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 368,
+                "porcentaje": 0.8515,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 3098,
+                "porcentaje": 7.1689,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 663,
+                "porcentaje": 1.5342,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 42081,
+            "porcentajeAcumulados": 97.3781,
+            "noRegistradas": 6,
+            "porcentajeNoRegistradas": 0.0138,
+            "nulos": 1124,
+            "porcentajeNulos": 2.6010,
+            "total": 43214,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 4,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 16290,
+                "porcentaje": 41.4250,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 15965,
+                "porcentaje": 40.5986,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 704,
+                "porcentaje": 1.7902,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 222,
+                "porcentaje": 0.5645,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 485,
+                "porcentaje": 1.2333,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 3927,
+                "porcentaje": 9.9862,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 822,
+                "porcentaje": 2.0903,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 38415,
+            "porcentajeAcumulados": 97.6884,
+            "noRegistradas": 14,
+            "porcentajeNoRegistradas": 0.0356,
+            "nulos": 891,
+            "porcentajeNulos": 2.2657,
+            "total": 39324,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 5,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14534,
+                "porcentaje": 36.3868,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 16801,
+                "porcentaje": 42.0624,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 549,
+                "porcentaje": 1.3744,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 157,
+                "porcentaje": 0.3930,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 262,
+                "porcentaje": 0.6559,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 6182,
+                "porcentaje": 15.4770,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 407,
+                "porcentaje": 1.0189,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 38892,
+            "porcentajeAcumulados": 973687,
+            "noRegistradas": 0,
+            "porcentajeNoRegistradas": 0,
+            "nulos": 1046,
+            "porcentajeNulos": 2.6187,
+            "total": 39943,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 6,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14303,
+                "porcentaje": 31.1124,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 25374,
+                "porcentaje": 55.1944,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 765,
+                "porcentaje": 1.6640,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 413,
+                "porcentaje": 0.8983,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 388,
+                "porcentaje": 0.8439,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 2122,
+                "porcentaje": 4.6158,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 1172,
+                "porcentaje": 2.5493,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 44537,
+            "porcentajeAcumulados": 96.8785,
+            "noRegistradas": 10,
+            "porcentajeNoRegistradas": 0.0217,
+            "nulos": 1419,
+            "porcentajeNulos": 3.0866,
+            "total": 45972,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 7,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 18509,
+                "porcentaje": 37.8336,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 25496,
+                "porcentaje": 52.1156,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1405,
+                "porcentaje": 2.8719,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 189,
+                "porcentaje": 0.3863,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 307,
+                "porcentaje": 0.6275,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1306,
+                "porcentaje": 2.6695,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 945,
+                "porcentaje": 1.9316,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 48157,
+            "porcentajeAcumulados": 98.4362,
+            "noRegistradas": 21,
+            "porcentajeNoRegistradas": 0.0429,
+            "nulos": 737,
+            "porcentajeNulos": 1.5064,
+            "total": 48922,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 8,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14616,
+                "porcentaje": 34.1654,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 22330,
+                "porcentaje": 52.1972,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1503,
+                "porcentaje": 3.5133,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 788,
+                "porcentaje": 1.8419,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 749,
+                "porcentaje": 1.7508,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1203,
+                "porcentaje": 2.8120,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 738,
+                "porcentaje": 1.7251,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 41927,
+            "porcentajeAcumulados": 98.0060,
+            "noRegistradas": 11,
+            "porcentajeNoRegistradas": 0.0257,
+            "nulos": 834,
+            "porcentajeNulos": 1.9495,
+            "total": 42780,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 9,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 13210,
+                "porcentaje": 32.3663,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 21979,
+                "porcentaje": 53.8516,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 892,
+                "porcentaje": 2.1855,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 188,
+                "porcentaje": 0.4606,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 257,
+                "porcentaje": 0.6296,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1904,
+                "porcentaje": 4.6650,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 1422,
+                "porcentaje": 3.4840,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 39852,
+            "porcentajeAcumulados": 97.6429,
+            "noRegistradas": 13,
+            "porcentajeNoRegistradas": 0.0318,
+            "nulos": 940,
+            "porcentajeNulos": 2.3031,
+            "total": 40814,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 10,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 13606,
+                "porcentaje": 40.9918,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 15061,
+                "porcentaje": 45.3753,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 952,
+                "porcentaje": 2.8681,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 253,
+                "porcentaje": 0.7622,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 247,
+                "porcentaje": 0.7441,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1532,
+                "porcentaje": 4.6155,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 452,
+                "porcentaje": 1.3617,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 32103,
+            "porcentajeAcumulados": 96.7190,
+            "noRegistradas": 12,
+            "porcentajeNoRegistradas": 0.0361,
+            "nulos": 1067,
+            "porcentajeNulos": 3.2146,
+            "total": 33192,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 11,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 17768,
+                "porcentaje": 44.2221,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 17341,
+                "porcentaje": 43.1593,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 339,
+                "porcentaje": 0.8437,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 137,
+                "porcentaje": 0.3409,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 189,
+                "porcentaje": 0.4703,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 2374,
+                "porcentaje": 5.9085,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 736,
+                "porcentaje": 1.8318,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 38884,
+            "porcentajeAcumulados": 96.7769,
+            "noRegistradas": 8,
+            "porcentajeNoRegistradas": 0.0199,
+            "nulos": 1276,
+            "porcentajeNulos": 3.1757,
+            "total": 40179,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 12,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 15052,
+                "porcentaje": 30.8847,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 25473,
+                "porcentaje": 52.2673,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1209,
+                "porcentaje": 2.4807,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 234,
+                "porcentaje": 0.4801,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 378,
+                "porcentaje": 0.7756,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 4147,
+                "porcentaje": 8.5091,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 1112,
+                "porcentaje": 2.2816,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 47605,
+            "porcentajeAcumulados": 97.6793,
+            "noRegistradas": 6,
+            "porcentajeNoRegistradas": 0.0123,
+            "nulos": 1113,
+            "porcentajeNulos": 2.2837,
+            "total": 48736,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 13,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14384,
+                "porcentaje": 30.9250,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 24946,
+                "porcentaje": 53.7675,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1086,
+                "porcentaje": 2.3407,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 273,
+                "porcentaje": 0.5884,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 237,
+                "porcentaje": 0.5108,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 3458,
+                "porcentaje": 7.4532,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 913,
+                "porcentaje": 1.9678,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 45261,
+            "porcentajeAcumulados": 97.5536,
+            "noRegistradas": 19,
+            "porcentajeNoRegistradas": 0.0409,
+            "nulos": 1103,
+            "porcentajeNulos": 2.3773,
+            "total": 46396,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 14,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 13783,
+                "porcentaje": 32.1724,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 24432,
+                "porcentaje": 57.0294,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1111,
+                "porcentaje": 2.5933,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 238,
+                "porcentaje": 0.5555,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 423,
+                "porcentaje": 0.9873,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 1359,
+                "porcentaje": 3.1721,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 387,
+                "porcentaje": 0.9033,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 41733,
+            "porcentajeAcumulados": 97.4136,
+            "noRegistradas": 0,
+            "porcentajeNoRegistradas": 0,
+            "nulos": 1094,
+            "porcentajeNulos": 2.5536,
+            "total": 42841,
+            "porcentajeTotal": 100.0000
+        }
+    },
+    {
+        "demarcacionID": 15,
+        "tipoElecID": 1,
+        "distribucionGeneral": [{
+                "candID": 18,
+                "logo": "COMBINACIÓ214750022.png",
+                "nombre": "Unidos por Tlaxcala",
+                "total": 14898,
+                "porcentaje": 34.9013,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 19,
+                "logo": "COMBINACIÓ210018529.png",
+                "nombre": "Juntos haremos historia en Tlaxcala",
+                "total": 21097,
+                "porcentaje": 49.4236,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 6,
+                "logo": "MC213600125.png",
+                "nombre": "Movimiento Ciudadano",
+                "total": 1879,
+                "porcentaje": 4.4019,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 12,
+                "logo": "IMPACTO214144689.png",
+                "nombre": "Impacto Social “SI”",
+                "total": 257,
+                "porcentaje": 0.6020,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 13,
+                "logo": "PES214213250.png",
+                "nombre": "Partido Encuentro Solidario",
+                "total": 460,
+                "porcentaje": 1.0776,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 14,
+                "logo": "RSP214239135.png",
+                "nombre": "Redes Sociales Progresistas",
+                "total": 2027,
+                "porcentaje": 4.7486,
+                "candidaturasDetalles": []
+            },
+            {
+                "candID": 15,
+                "logo": "FUERZA214303735.png",
+                "nombre": "Fuerza Social por México",
+                "total": 872,
+                "porcentaje": 2.0428,
+                "candidaturasDetalles": []
+            }
+        ],
+        "resumenVotacion": {
+            "acumulados": 41490,
+            "porcentajeAcumulados": 97.1981,
+            "noRegistradas": 0,
+            "porcentajeNoRegistradas": 0,
+            "nulos": 1181,
+            "porcentajeNulos": 2.7667,
+            "total": 42686,
+            "porcentajeTotal": 100.0000
+        }
+    }
+
+]
