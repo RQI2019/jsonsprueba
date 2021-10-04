@@ -27,7 +27,7 @@
         "claveURL": "municipio10-chiautempan",
         "migas": "Municipio 10. Chiautempan",
         "demarcaciones": [{
-            "id": 1,
+            "id": 0,
             "claveURL": "demarcacionsanta-cruz-guadalupe",
             "migas": "Demarcación Santa Cruz Guadalupe",
             "secciones": [{
@@ -68,7 +68,7 @@
         "claveURL": "municipio19-tepetitla-de-lardizabal",
         "migas": "Municipio 19. Tepetitla de Lardizabal",
         "demarcaciones": [{
-            "id": 2,
+            "id": 0,
             "claveURL": "demarcacionguadalupe-victoria",
             "migas": "Demarcación Guadalupe Victoria",
             "secciones": [{
