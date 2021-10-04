@@ -1,0 +1,138 @@
+[
+    {
+        "id": 4,
+        "nombre": "ATLANGATEPEC",
+        "claveURL": "municipio4-atlangatepec",
+        "migas": "Municipio 4. Atlangatepec",
+        "demarcaciones": [{
+            "id": 2,
+            "claveURL": "demarcacioncolonia-agricola-san-luis",
+            "migas": "Demarcación Colonia Agricola San Luis",
+            "secciones": [{
+                "id": 0,
+                "claveURL": "seccion52",
+                "migas": "Sección 52",
+                "casillas": [{
+                    "id": 0,
+                    "claveURL": "basica1",
+                    "tipoCasilla": "Basica 1",
+                    "migas": "Casilla Basica 1"
+                }]
+            }]
+        }]
+    },
+    {
+        "id": 10,
+        "nombre": "CHIAUTEMPAN",
+        "claveURL": "municipio10-chiautempan",
+        "migas": "Municipio 10. Chiautempan",
+        "demarcaciones": [{
+            "id": 1,
+            "claveURL": "demarcacionsanta-cruz-guadalupe",
+            "migas": "Demarcación Santa Cruz Guadalupe",
+            "secciones": [{
+                "id": 0,
+                "claveURL": "seccion126",
+                "migas": "Sección 126",
+                "casillas": [{
+                        "id": 0,
+                        "claveURL": "basica1",
+                        "tipoCasilla": "Basica 1",
+                        "migas": "Casilla Basica 1"
+                    },
+                    {
+                        "id": 1,
+                        "claveURL": "contigua3",
+                        "tipoCasilla": "Contigua 3",
+                        "migas": "Casilla Contigua 3"
+                    },
+                    {
+                        "id": 2,
+                        "claveURL": "contigua1",
+                        "tipoCasilla": "Contigua 1",
+                        "migas": "Casilla Contigua 1"
+                    },
+                    {
+                        "id": 3,
+                        "claveURL": "contigua2",
+                        "tipoCasilla": "Contigua 2",
+                        "migas": "Casilla Contigua 2"
+                    }
+                ]
+            }]
+        }]
+    },
+    {
+        "id": 19,
+        "nombre": "TEPETITLA DE LARDIZABAL",
+        "claveURL": "municipio19-tepetitla-de-lardizabal",
+        "migas": "Municipio 19. Tepetitla de Lardizabal",
+        "demarcaciones": [{
+            "id": 2,
+            "claveURL": "demarcacionguadalupe-victoria",
+            "migas": "Demarcación Guadalupe Victoria",
+            "secciones": [{
+                "id": 0,
+                "claveURL": "seccion291",
+                "migas": "Sección 291",
+                "casillas": [{
+                    "id": 0,
+                    "claveURL": "basica1",
+                    "tipoCasilla": "Basica 1",
+                    "migas": "Casilla Basica 1"
+                }]
+            }]
+        }]
+    },
+    {
+        "id": 21,
+        "nombre": "NANACAMILPA DE MARIANO ARISTA",
+        "claveURL": "municipio21-nanacamilpa-de-mariano-arista",
+        "migas": "Municipio 21. Nanacamilpa de Mariano Arista",
+        "demarcaciones": [{
+            "id": 1,
+            "claveURL": "demarcaciontepuente",
+            "migas": "Demarcación Tepuente",
+            "secciones": [{
+                "id": 0,
+                "claveURL": "seccion306",
+                "migas": "Sección 306",
+                "casillas": [{
+                    "id": 0,
+                    "claveURL": "basica1",
+                    "tipoCasilla": "Basica 1",
+                    "migas": "Casilla Basica 1"
+                }]
+            }]
+        }]
+    },
+    {
+        "id": 36,
+        "nombre": "TOTOLAC",
+        "claveURL": "municipio36-totolac",
+        "migas": "Municipio 36. Totolac",
+        "demarcaciones": [{
+            "id": 1,
+            "claveURL": "demarcacionla-candelaria-teotlalpan",
+            "migas": "Demarcación La Candelaria Teotlalpan",
+            "secciones": [{
+                "id": 0,
+                "claveURL": "seccion511",
+                "migas": "Sección 511",
+                "casillas": [{
+                        "id": 0,
+                        "claveURL": "contigua1",
+                        "tipoCasilla": "Contigua 1",
+                        "migas": "Casilla Contigua 1"
+                    },
+                    {
+                        "id": 1,
+                        "claveURL": "basica1",
+                        "tipoCasilla": "Basica 1",
+                        "migas": "Casilla Basica 1"
+                    }
+                ]
+            }]
+        }]
+    }
+]
