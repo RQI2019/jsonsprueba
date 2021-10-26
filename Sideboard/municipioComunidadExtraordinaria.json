@@ -7,7 +7,7 @@
         "demarcaciones": [{
             "id": 0,
             "claveURL": "demarcacioncolonia-agricola-san-luis",
-            "migas": "Demarcación Colonia Agricola San Luis",
+            "migas": "Colonia Agricola San Luis",
             "secciones": [{
                 "id": 0,
                 "claveURL": "seccion52",
@@ -29,7 +29,7 @@
         "demarcaciones": [{
             "id": 0,
             "claveURL": "demarcacionsanta-cruz-guadalupe",
-            "migas": "Demarcación Santa Cruz Guadalupe",
+            "migas": "Santa Cruz Guadalupe",
             "secciones": [{
                 "id": 0,
                 "claveURL": "seccion126",
@@ -70,7 +70,7 @@
         "demarcaciones": [{
             "id": 0,
             "claveURL": "demarcacionguadalupe-victoria",
-            "migas": "Demarcación Guadalupe Victoria",
+            "migas": "Guadalupe Victoria",
             "secciones": [{
                 "id": 0,
                 "claveURL": "seccion291",
@@ -92,7 +92,7 @@
         "demarcaciones": [{
             "id": 0,
             "claveURL": "demarcaciontepuente",
-            "migas": "Demarcación Tepuente",
+            "migas": "Tepuente",
             "secciones": [{
                 "id": 0,
                 "claveURL": "seccion306",
@@ -114,7 +114,7 @@
         "demarcaciones": [{
             "id": 0,
             "claveURL": "demarcacionla-candelaria-teotlalpan",
-            "migas": "Demarcación La Candelaria Teotlalpan",
+            "migas": "La Candelaria Teotlalpan",
             "secciones": [{
                 "id": 0,
                 "claveURL": "seccion511",
